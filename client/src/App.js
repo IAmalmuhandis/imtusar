@@ -13,6 +13,10 @@ function App() {
           <div className="loader"></div>
         </div>
       </header>
+      <footer className="footer">
+        <p>Developed by Northino Tech Solutions</p>
+        <p>&copy; Imtusar. All rights reserved. 2023</p>
+      </footer>
     </div>
   );
 }
